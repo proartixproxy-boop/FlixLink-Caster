@@ -1,3 +1,4 @@
+IMPORTANTE: No vincula cuando lo pongo fuera del pc, me dice que el codigo no existe desde flixlink
 
 debemos hacer en tendencias también las series:
 - Top Películas
