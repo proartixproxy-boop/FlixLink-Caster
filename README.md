@@ -1,4 +1,4 @@
-IMPORTANTE: No vincula cuando lo pongo fuera del pc, me dice que el codigo no existe desde flixlink
+IMPORTANTE: No vincula cuando lo pongo fuera del pc, me dice que el codigo no existe desde flixlink, creo que es por qué busca el servidor local y ya te dije que va a funcionar sin servidor local, todo conectado a través de firebase
 
 debemos hacer en tendencias también las series:
 - Top Películas
